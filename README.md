@@ -1,5 +1,5 @@
 # WSN_OMNeT
-[Report written in LaTeX](../Report_Simulation_of_WSN.pdf)
+[Report written in LaTeX](Report_Simulation_of_WSN.pdf)
 
 
 Simulation of a wireless network scenario in which stationary nodes exchange messages. 
