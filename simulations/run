@@ -1,0 +1,4 @@
+#!/bin/sh
+cd `dirname $0`
+../src/simplewireless -n .:../src $*
+# for shared lib, use: opp_run -l ../src/simplewireless -n .:../src $*

@@ -1,0 +1,3 @@
+package simplewireless;
+
+@license(LGPL);

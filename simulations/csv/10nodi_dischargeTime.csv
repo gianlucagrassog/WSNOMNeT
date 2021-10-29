@@ -1,0 +1,12 @@
+run,repetition,Module,dischargeTime:last,,,,
+tenNodes-0-20210528-17:16:00-65292,0,TestNet.source[0].energyStorage,4718.4042128494,,,,
+tenNodes-0-20210528-17:16:00-65292,0,TestNet.source[1].energyStorage,4756.1848630116,,,,
+tenNodes-0-20210528-17:16:00-65292,0,TestNet.source[2].energyStorage,4656.6317664571,,,,
+tenNodes-0-20210528-17:16:00-65292,0,TestNet.source[3].energyStorage,4983.5498554409,,media,4604.4284266603,
+tenNodes-0-20210528-17:16:00-65292,0,TestNet.source[4].energyStorage,4958.1776723486,,,,
+tenNodes-0-20210528-17:16:00-65292,0,TestNet.source[5].energyStorage,4194.3598623908,,,,
+tenNodes-0-20210528-17:16:00-65292,0,TestNet.source[6].energyStorage,4654.6189404914,,Minimo,4048.0452479787,        Source 9
+tenNodes-0-20210528-17:16:00-65292,0,TestNet.source[7].energyStorage,4250.7294157663,,,,
+tenNodes-0-20210528-17:16:00-65292,0,TestNet.source[8].energyStorage,4800.05108242,,Max,4983.5498554409,        Source 3
+tenNodes-0-20210528-17:16:00-65292,0,TestNet.source[9].energyStorage,4048.0452479787,,,,
+tenNodes-0-20210528-17:16:00-65292,0,TestNet.sink.energyStorage,4627.9597741085,,,,
